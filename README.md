@@ -37,7 +37,6 @@ Installation & Usage
 Since this is a client-side project, no server setup is required.
 
     Clone the repository:
-    Bash
 
     git clone https://github.com/mecik-arda/Interactive-Terminal-Portfolio.git
 
